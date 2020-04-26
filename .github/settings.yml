@@ -1,1 +1,16 @@
 _extends: github-config
+
+repository:
+  name: wiki
+  description: Knowledge hub for all things StormBit
+  homepage: https://github.com/stormbit/wiki/wiki/
+  private: false
+  
+   # All issues happen in the issues repository
+  has_issues: false
+  
+   # That's what this is!
+  has_wiki: true
+
+  has_downloads: false
+  
